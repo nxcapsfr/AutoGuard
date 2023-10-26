@@ -5,7 +5,7 @@ A project done for the course CSE1901 - Technical Answers for Real-World Problem
 <h3>Team members</h3>
 <ul>
 <li><b>AKSHAY GIRISH 20BCE1573</b> Github: <a href="https://github.com/Akshaykviit023">Akshaykviit023</a></li>
-<li><b>HRITHIK U 20BCE1501</b> Github: <a href="">HU</a></li>
+<li><b>HRITHIK U 20BCE1319</b> Github: <a href="https://github.com/nxcapsfr">HU</a></li>
 <li><b>SANKER KUMAR 20BCE1505</b> Github: <a href=""SK</a></li>
 </ul>
 <h2>Abstract</h2>
